@@ -10,6 +10,7 @@ This repo contains the code and supporting documents we created for our final pr
   <li>"Final Project Report" PDF - Comprehensive report on the project and its results.</li>
   <li>"Final Project" Jupyer notebook file - Notebook file showcasing project results.</li>
   <li>yolo.py - code from the notebook file without any markup.</li>
+  <li>yolov5s.pt - model file from Ultralytics</li>
 </ul>
 
 
