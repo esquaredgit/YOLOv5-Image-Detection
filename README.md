@@ -1,8 +1,7 @@
-# CSCI-B657 Final Project
+# YOLOv5 Image Detection - Final Group Project
 
-Gavin Hemmerlein - @ghemmer
+Ethan Eldridge, Gavin Hemmerlein
 
-Ethan Eldridge - @etmeldr
 
 [Video Over YOLOv5 Efforts](https://drive.google.com/file/d/1olSLmG5IbapKzHXZVuH-CpD_1CrHeRkB/view) This is a link to our URL for YOLO. This is on Google Drive.
 
