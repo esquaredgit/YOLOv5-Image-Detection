@@ -2,15 +2,14 @@
 
 Ethan Eldridge, Gavin Hemmerlein
 
+This repo contains the code and supporting documents we created for our final project in a graduate class on computer vision methods. This program adapts a YOLOv5 model, pretrained on the COCO dataset, to the problem of image detection in a relatively small aquarium dataset. For more information on my motivation for this project and the details of its construction, read the project report included in this repo.
 
-[Video Over YOLOv5 Efforts](https://drive.google.com/file/d/1olSLmG5IbapKzHXZVuH-CpD_1CrHeRkB/view) This is a link to our URL for YOLO. This is on Google Drive.
-
-[Youtube Video Over YOLOv5 Efforts](https://drive.google.com/file/d/1olSLmG5IbapKzHXZVuH-CpD_1CrHeRkB/view) This is a link to our URL for YOLO. This is the same but on YouTube.
-
-[Github Repo Here](https://github.iu.edu/cs-b657-sp2021/tdash-etmeldr-ghemmer-alavania-wilswang-a1/tree/master/finalProject) This area will include all of the files contained within the .ZIP file.
-
-[Jupyter Notebook with Code](https://github.iu.edu/cs-b657-sp2021/tdash-etmeldr-ghemmer-alavania-wilswang-a1/blob/master/finalProject/CSCI_B657_FinalProject_GHEE_Clean.ipynb) This file had to have the outputs stripped to load on to GIT. The final trained models were in the 40 - 80 GB range. This file includes links to the multiple sets of data that we used. It also has comments embedded within the code. To duplicate the results, one would only have to rerun the cells and follow the instructions.
-
-[Notebook Ran on Colab on Ethan's Drive with Code](https://colab.research.google.com/drive/14E7vuPp40n89opoHy99C80sXJcQwLv5L?usp=sharing) This includes the outputs. There is proof of trained models.
+## Description of Files:
+<ul>
+  <li>"Presentation" Powerpoint - Quick presentation that lays out motivation for project and progress on the project.</li>
+  <li>"Final Project Report" PDF - Comprehensive report on the project and its results.</li>
+  <li>"Final Project" Jupyer notebook file - Notebook file showcasing project results.</li>
+  <li>yolo.py - code from the notebook file without any markup.</li>
+</ul>
 
 
